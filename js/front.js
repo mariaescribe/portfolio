@@ -26,6 +26,7 @@ $(function () {
         dots: true,
         autoplay: true,
         autoplayHoverPause: true,
+        nav: true,
     });
 
     $("#second-slider").owlCarousel({
@@ -34,6 +35,7 @@ $(function () {
         dots: true,
         autoplay: true,
         autoplayHoverPause: true,
+        nav: true,
     });
     // ------------------------------------------------------ //
     // For demo purposes, can be deleted
