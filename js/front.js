@@ -28,14 +28,6 @@ $(function () {
         autoplayHoverPause: true,
     });
 
-    $("#main-slider").owlCarousel({
-        items: 1,
-        nav: false,
-        dots: true,
-        autoplay: true,
-        autoplayHoverPause: true,
-    });
-
     $("#second-slider").owlCarousel({
         items: 3,
         nav: false,
